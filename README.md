@@ -1,6 +1,12 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsparrowscout&count_bg=%23004FB0&title_bg=%23949494&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="center">
+    
 
-# contact
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsparrowscout&count_bg=%230042FF&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+<br/>
+
+### contact
 <p>
     <a href="mailto:sparrowscout.0000@gmail.com"> <img src="https://img.shields.io/badge/sparrowscout.0000@gmail.com-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff"/></a>
  
@@ -9,8 +15,13 @@
   <a href="https://github.com/sparrowscout?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/></a>
   
   </p>
+   
+    
+<br/>
+    
+    
 
-# languages
+### languages
 <p>
   
 
@@ -21,8 +32,28 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=ffffff"/>
   </p>
 
-# framework, library
+   
+<br/>
+    
+<p>
+
+### framework, library
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000"/>
+  
+</p>
+    
+<br/>
+
+
+    
+  [![sparrowscout's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparrowscout&show_icons=true&theme=graywhite)](https://github.com/sparrowscout/github-readme-stats)
+    
+    
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparrowscout)](https://github.com/sparrowscout/github-readme-stats)
+
+
+    
+</div>
 <!--
 **sparrowscout/sparrowscout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
