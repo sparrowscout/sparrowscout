@@ -11,8 +11,9 @@
     <a href="mailto:sparrowscout.0000@gmail.com"> <img src="https://img.shields.io/badge/sparrowscout.0000@gmail.com-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff"/></a>
  
   <br/>
+   <a href="https://sparrowscout.github.io"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/></a>
   <a href="https://velog.io/@sparrowscout"> <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=ffffff"/></a>
-  <a href="https://github.com/sparrowscout?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff"/></a>
+ 
   
   </p>
    
